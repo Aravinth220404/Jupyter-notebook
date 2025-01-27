@@ -7,7 +7,6 @@ This repository contains my practice notebooks for learning and experimenting wi
 
 ## Prerequisites
 - To run these notebooks on your local machine, you'll need to have the following :
-- 
 - **Python 3.7 or later** (I recommend using version 3.12 for the latest features and stability)
 - **Jupyter Notebook**: You can easily install it by running `pip install notebook` in your terminal.
 - **Pandas**: This is essential for data manipulation. Install it using `pip install pandas`.
